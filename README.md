@@ -149,7 +149,7 @@ Program ini menggunakan **Composition** untuk memodelkan hubungan "memiliki" (**
 4. **OrderService memiliki data perbaikan**:
    - OrderService memiliki kumpulan data perbaikan berupa **vector** yang menyimpan informasi tentang komponen yang diperbaiki, deskripsi, biaya, dan tanggal perbaikan (**komposisi**)
 
-## Alur Program
+# Alur Program
 ### **1. Inisialisasi**
 - Membuat objek **Laptop** dan mengatur nilainya menggunakan **setter**
 - Membuat objek **Komponen** (Layar, Keyboard, Baterai) dan mengatur atributnya
