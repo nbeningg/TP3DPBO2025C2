@@ -162,6 +162,7 @@ Program ini menggunakan **Composition** untuk memodelkan hubungan "memiliki" (**
 - Menambahkan perbaikan yang dilakukan beserta biayanya
 - Menyelesaikan servis dan mengubah status menjadi **"Selesai"**
 - Proses pembayaran dengan mengubah status menjadi **"Dibayar"**
+**NOTE : STATUS AKAN BEDA BEDA SESUAI PROSESNYA**
 
 ### **3. Output**
 - Menampilkan **informasi detail order servis**, termasuk:
